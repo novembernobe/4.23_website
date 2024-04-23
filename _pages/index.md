@@ -1,11 +1,19 @@
 ---
-title: "ここにページのタイトル"
+title: "おいしい飲食店"
 author: default
 permalink: /
 ---
+# 近代の近くにある美味しいお店  
+## ラーメン  
+#### 夢を語れ大阪
+> 油そばやまぜそばなどがあり、とてもボリュームがあるラーメンが食べられる
 
+[リンク](https://maps.app.goo.gl/CWFrE8paeJTCaCeT8)
+#### 横浜家系ラーメン 教道家
+> 無料のごはんやトッピングがあり好みのラーメンにすることができる
 
-
+[リンク](https://maps.app.goo.gl/fBXfNRkucKeSVmkv5)
+####
 
 
 
